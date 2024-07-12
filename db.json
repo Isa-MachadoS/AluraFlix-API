@@ -2,75 +2,81 @@
     "videos": [
       {
         "id": 1,
-        "title": "Vídeo 1",
-        "url": "https://www.youtube.com/watch?v=YYnal1n0bBY",
-        "category": "Categoria 1"
+        "titulo": "One Piece Film: Gold",
+        "descricao": "Um filme de One piece",
+        "capa": "" ,
+        "link": "https://www.youtube.com/watch?v=YYnal1n0bBY",
+        "categoria": "Categoria 1"
       },
       {
         "id": 2,
-        "title": "Vídeo 2",
-        "url": "https://www.youtube.com/watch?v=Z76HMpNy_8M",
-        "category": "Categoria 1"
+        "titulo": "One Piece: Heart of Gold",
+        "descricao": "Um filme de One piece",
+        "link": "https://www.youtube.com/watch?v=Z76HMpNy_8M",
+        "categoria": "Categoria 1"
       },
       {
         "id": 3,
-        "title": "Vídeo 3",
-        "url": "https://www.youtube.com/watch?v=1gGt1Mg_zSo",
-        "category": "Categoria 1"
+        "titulo": "One Piece Film: Z",
+        "descricao":"Um filme de One piece",
+        "link": "https://www.youtube.com/watch?v=1gGt1Mg_zSo",
+        "categoria": "Categoria 1"
       },
       {
         "id": 4,
-        "title": "Vídeo 4",
-        "url": "https://www.youtube.com/watch?v=3n58UPvcD7I",
-        "category": "Categoria 2"
+        "titulo": "One Piece: Strong World",
+        "descricao":"Um filme de One piece",
+        "link": "https://www.youtube.com/watch?v=3n58UPvcD7I",
+        "categoria": "Categoria 2"
       },
       {
         "id": 5,
-        "title": "Vídeo 5",
-        "url": "https://www.youtube.com/watch?v=gC6RU45iOOk",
-        "category": "Categoria 2"
+        "titulo": "One Piece: Stampede",
+        "descricao":"Um filme de One piece",
+        "link": "https://www.youtube.com/watch?v=gC6RU45iOOk",
+        "categoria": "Categoria 2"
       },
       {
         "id": 6,
-        "title": "Vídeo 6",
-        "url": "https://www.youtube.com/watch?v=ylh4so3tg5g",
-        "category": "Categoria 2"
+        "titulo": "One Piece 3D2Y - Overcoming Ace's Death!",
+        "descricao":"Um filme de One piece",
+        "link": "https://www.youtube.com/watch?v=ylh4so3tg5g",
+        "categoria": "Categoria 2"
       },
       {
         "id": 7,
-        "title": "Vídeo 7",
-        "url": "https://www.youtube.com/watch?v=V4L2WpS3L4c&list=PLm-_o7hx5WP2UA1j5g6dtHqRpBLSAWFln",
-        "category": "Categoria 3"
+        "titulo": "Chopper's Kingdom on the Island of Strange Animals",
+        "descricao":"Um filme de One piece",
+        "link": "https://www.youtube.com/watch?v=V4L2WpS3L4c&list=PLm-_o7hx5WP2UA1j5g6dtHqRpBLSAWFln",
+        "categoria": "Categoria 3"
       },
       {
         "id": 8,
-        "title": "Vídeo 8",
-        "url": "https://www.youtube.com/watch?v=JvqcaQJgr-A",
-        "category": "Categoria 3"
+        "titulo": "ONE PIECE FILM: RED",
+        "descricao":"Um filme de One piece",
+        "link": "https://www.youtube.com/watch?v=JvqcaQJgr-A",
+        "categoria": "Categoria 3"
       },
       {
         "id": 9,
-        "title": "Vídeo 9",
-        "url": "https://www.youtube.com/watch?v=-3ean_Qphxc&list=PLNNBcZ9KokttM7kJozKj4q76-QJuJKtFM&index=1",
-        "category": "Categoria 3"
+        "titulo": "One Piece: The Cursed Holy Sword",
+        "descricao":"Um filme de One piece",
+        "link": "https://www.youtube.com/watch?v=ByGSt2vKgPI&list=PLNNBcZ9KokttM7kJozKj4q76-QJuJKtFM&index=2",
+        "categoria": "Categoria 4"
       },
       {
         "id": 10,
-        "title": "Vídeo 10",
-        "url": "https://www.youtube.com/watch?v=ByGSt2vKgPI&list=PLNNBcZ9KokttM7kJozKj4q76-QJuJKtFM&index=2",
-        "category": "Categoria 4"
+        "titulo": "ONE PIECE FILME: BARÃO OMATSURI E A ILHA SECRETA",
+        "descricao": "Um filme de One piece",
+        "link": "https://www.youtube.com/watch?v=lI5aTkteI-0&list=PLKfGZLTRErA-_lJELaoF9Tv3UgbYa1IAw&index=2",
+        "categoria": "Categoria 4"
       },
       {
         "id": 11,
-        "title": "Vídeo 11",
-        "url": "https://www.youtube.com/watch?v=lI5aTkteI-0&list=PLKfGZLTRErA-_lJELaoF9Tv3UgbYa1IAw&index=2",
-        "category": "Categoria 4"
-      },
-      {
-        "id": 12,
-        "title": "Vídeo 12",
-        "url": "https://www.youtube.com/watch?v=YC8SLpnxsL4&list=PLFXaK79ygXwQEYTx8oaFftGMqptjsTEp6&index=5",
-        "category": "Categoria 4"
+        "titulo": "ONE PIECE: A Série | Trailer oficial",
+        "descricao":"Um filme de One piece",
+        "link": "https://www.youtube.com/watch?v=YC8SLpnxsL4&list=PLFXaK79ygXwQEYTx8oaFftGMqptjsTEp6&index=5",
+        "categoria": "Categoria 4"
       }
     ]
   }
