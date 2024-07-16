@@ -87,7 +87,15 @@
         "capa": "https://img.youtube.com/vi/YC8SLpnxsL4/hqdefault.jpg",
         "link": "https://www.youtube.com/watch?v=YC8SLpnxsL4&list=PLFXaK79ygXwQEYTx8oaFftGMqptjsTEp6&index=5",
         "categoria": "Live Action"
-      }
+      },
+      {
+        "id": 11,
+        "titulo": "ONE PIECE: Temporada 2 | Início da produção",
+        "descricao":"Prepare yourselves as the Straw Hats head towards the Grand Line!",
+        "capa": "https://img.youtube.com/vi/hi_dS1vg-js/hqdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=hi_dS1vg-js",
+        "categoria": "Live Action"
+      }  
     ]
   }
   
